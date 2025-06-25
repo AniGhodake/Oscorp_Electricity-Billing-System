@@ -1,0 +1,26 @@
+# Ignore compiled classes
+*.class
+
+# Ignore build artifacts
+bin/
+build/
+dist/
+
+# Ignore IDE files
+*.iml
+.idea/
+nbproject/private/
+
+# Ignore logs and system files
+*.log
+.DS_Store
+
+
+/bin/
+/build/
+/dist/
+/nbproject/
+/test/
+*.class
+*.log
+*.DS_Store
